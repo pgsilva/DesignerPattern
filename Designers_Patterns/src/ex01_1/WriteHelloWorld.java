@@ -1,5 +1,10 @@
 package ex01_1;
 
+/**
+ * 
+ * @author Paulo Guilherme da Silva 816113977
+ *
+ */
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
